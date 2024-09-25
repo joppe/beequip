@@ -1,0 +1,11 @@
+.app {
+  background: var(--color-foreground);
+
+  @media (min-width: 768px) {
+    height: 400px;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr 328px;
+    align-items: start;
+  }
+}

@@ -1,0 +1,7 @@
+.aside {
+  box-sizing: border-box;
+  padding: 24px;
+  height: 100%;
+  overflow-y: auto;
+  background: var(--color-accent);
+}
